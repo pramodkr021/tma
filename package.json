@@ -1,0 +1,19 @@
+{
+  "name": "node_themarcomavenue",
+  "version": "1.0.0",
+  "description": "Assignment submission for The Marcom Avenue",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Pramod Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
